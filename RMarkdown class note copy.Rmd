@@ -1,7 +1,7 @@
 ---
-title: "My first R Markdown Report"
+title: "My second R Markdown Report_copy"
 author: "Taeyoung Lee"
-date: "6/22/2020"
+date: "6/25/2020"
 output: word_document
 toc: TRUE
 ---
